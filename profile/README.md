@@ -1,4 +1,4 @@
-# 🌐 Welcome to **[Your Organization Name]**
+# 🌐 Welcome to **[UAT Crafts]**
 
 We are a team of **professional web developers, designers, and freelancers** dedicated to crafting stunning, high-performing websites and digital solutions for businesses and individuals worldwide.
 
@@ -22,7 +22,6 @@ We are a team of **professional web developers, designers, and freelancers** ded
 | Frontend Development      | HTML, CSS, JavaScript| React, Angular, Vue      |
 | Backend Development       | Node.js, PHP         | Laravel, Express.js      |
 | CMS Solutions             | WordPress, Drupal    | Plugins & Themes         |
-| E-commerce Solutions      | Shopify, WooCommerce | Custom APIs              |
 
 ---
 
@@ -44,7 +43,7 @@ We are a team of **professional web developers, designers, and freelancers** ded
 ## 🌟 **Our Projects**
 | 💻 Project Name        | 🖼 Description                     | 🔗 Link               |
 |------------------------|------------------------------------|-----------------------|
-| **Ambitious Academy**         | Online Learning Webiste for Law related coursed    | [https://www.theambitiousacademy.com/](#)       |
+| **Ambitious Academy**         | Online Learning Webiste for Law related coursed    | [theambitiousacademy.com](#)       |
 | **Portfolio Master**   | A portfolio template for creators.| [Check It Out](#)     |
 | **BizBoost**           | A business-oriented website.      | [Explore](#)          |
 
@@ -52,7 +51,7 @@ We are a team of **professional web developers, designers, and freelancers** ded
 
 ## 🤝 **Let’s Collaborate!**
 - **🌐 Website**: [YourWebsite.com](#)
-- **📧 Email**: [contact@yourdomain.com](mailto:contact@yourdomain.com)
+- **📧 Email**: [contact@yourdomain.com](mailto:uatcrafts@gmail.com)
 - **📞 Call**: [+123 456 7890](tel:+1234567890)
 
 Stay connected:  
